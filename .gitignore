@@ -1,0 +1,20 @@
+# Ignore all object files and dynamic libraries
+*.o
+*.a
+*.so
+*.dylib
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore temporary files created by editors
+*.swp
+*~
+
+# Ignore log files
+*.log
+
+# Ignore root files
+*.root
